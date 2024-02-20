@@ -1,0 +1,4 @@
+---
+global:
+  image:
+    tag: "v2.10.11"
